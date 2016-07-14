@@ -31,4 +31,7 @@ Esperamos que você tenha algum conhecimento de ***Javascript***, ***Node.js***,
 - Criando plugins
   - Gerando a estrutura do plugin
   - NPM link
-  - ...
+  - Eventos e hooks
+- Pubsub
+  - Ping
+  - Socket.io
